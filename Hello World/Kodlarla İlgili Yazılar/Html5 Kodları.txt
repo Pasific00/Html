@@ -1,0 +1,170 @@
+<!DOcTYPe html> belge türü. Html5’te doc type artýk daha kýsa.
+<a>   köprü
+<abbr>   kýsaltma
+<adres>   adres eleman
+<area>   resim haritasý içinde belirtir  alan
+<article>   makale
+<aside> sayfa içeriði kenara içerik
+<audio> ses içeriði
+<b> kalýn yazý
+<base> sayfadaki tüm baðlantýlar için belirtir  taban URL
+<bdo> metin ekraný belirtir yönü
+<blockquote> uzun týrnak
+<body> body elementi
+<br> ekler tek satýr sonu
+<button>   düðme
+<canvas> grafik tanýmlayýn
+<caption>   tablo baþlýðý
+<cite>   alýntý
+<code> bilgisayar kodu metin
+<col> tablo sütunlarý için nitelikler
+<colgroup> tablo sütunlarýnda belirtir gruplarý
+<komut>   komut
+<datalist>   “otomatik tamamlama” dropdown list
+<dd>   taným açýklama
+<del> metin silindi
+<details>   elemanýn belirtir ayrýntýlarý
+<dfn> Tanýmlayan  terim anlamý
+<div> belgede belirtir  bölüm
+<dl>   taným listesi
+<dt>   terim anlamý
+<em> metin vurguladý
+<embed> dýþ uygulama veya etkileþimli içerik
+<eventsource>   sunucu tarafýndan gönderilen etkinlikler için  hedef
+<fieldset>   fieldset
+<figcaption> için baþlýk belirtir þekil unsuru.
+<figure> medya içeriði  grup ve onlarýn baþlýk
+<footer>   bölüm veya sayfa belirtir altbilgi
+<form>   form
+<h1>   baþlýk seviye 1
+<h2>   baþlýk seviye 2
+<h3>   baþlýk seviye 3
+<h4>   baþlýk seviyesi 4
+<h5>   baþlýk seviyesi 5
+<h6>   baþlýk düzeyini 6
+<head> belge hakkýnda bilgileri belirtir
+<header> seyir yardýmcýlarý veya  grubun tanýtým dahil hgroup elemanlarý
+<hgroup>   bölüm veya sayfa belirtir  baþlýk
+<hr> yatay  kural
+<html>   html belgesi
+<i> italik yazý
+<******>   satýr alt pencere (çerçeve)
+<img>   görüntü
+<input>   giriþ alaný
+<ins> metin takýlý
+<kbd> klavye metin
+<keygen> üreten  anahtar çifti
+<label> form kontrolü için belirtir  etiket
+<legend>   fieldset belirtir  baþlýk
+<li>   liste öðesi
+<link>   kaynak referans
+<mark> metin iþaretli
+<map>   resim haritasý basýn  menü listesi
+<****> **** bilgileri
+<meter> Önceden tanýmlanmýþ  kapsama alaný içinde belirtir ölçüm
+<nav> gezinti baðlantýlarý
+<noscript>   noscript bölüm
+<object>   nesne
+<ol>   sipariþ listesi
+<optgroup>   seçenek grubu
+<secenek> açýlan listede belirtir  seçenek
+<output> çýkýþ belirtir bazý türleri
+<p>   paragraf
+<param>   nesneyi belirtir  parametre
+<pre> metin biçimlendirilmiþ
+<progress> her türlü görevi belirtir ilerleme
+<q> kýsa  alýntý
+<ruby>   yakut açýklama (Doðu asya tipografi kullanýlan)
+<rp> yakut açýklamalarý desteklemeyen tarayýcýlarda yararýna kullanýlýr
+<rt>   yakut emrin yakut metin bileþeni.
+<samp> örnek bilgisayar kodu
+Web Sitesi Ýçerik Giriþinde Kullanýlan HTML 4 5 Kodlarý ve Anlamlarý
+<!–…–> Açýklama yazmak için kullanýlýr
+<!DOCTYPE> Dosya tipini belirtir
+<a> Link belirtir
+<abbr> Yazýnýn bir kýsaltma olduðunu belirtir
+<acronym> Kelimenin baþharfleri olduðunu belirtir
+<address> iletiþim adresleri için kullanýlýr
+<applet> Gömülü aplet eklemekte kullanýlýr(html 4 ile bu özellik iptal edilmiþtir)
+<area /> Resmin parçalarýna ait link vermeyi saðlar
+<b> Koyu harfli yazý
+<base /> Tüm linkler için kaynak kök adresi belirtir
+<basefont /> Fon tipi belirtir (html 4 ile bu özellik iptal edilmiþtir)
+<bdo> Yazýnýn yönünü belirler
+<big> Büyük yazý tanýmlar
+<blockquote> Uzun alýntý metin olduðunu gösterir
+<body> Dosyanýn ana kýsmýný gösterir
+<br /> Alt satýra geçiþ iþaretidir
+<button> Gönderme butonu üretir
+<caption> Tablo baþlýðý yazar
+<center> Elemaný sayfada ortalar (html 4 ile bu özellik iptal edilmiþtir)
+<cite> Alýntý belirtir
+<code> Bilgisayar kodlarý belirtir
+<col /> Tablo sütunlarý için özellik verir
+<colgroup> TAblodaki bir grup sütuna özellik verir
+<dd> Taným Listesi
+<del> Silinmiþ yazý
+<dir> Klasör listesi belirtir (html 4 ile bu özellik iptal edilmiþtir)
+<div> Dökümanda bir bölümü temsil eder
+<dfn> Taným kelimesini gösterir
+<dl> Taným listesi elemaný
+<dt> Taným listesindeki elemanlardan biridir
+<em> Vurgulanmýþ yazý
+<fieldset> Form için çerçeve üretir
+<font> Yazý özellikleri belirtir (html 4 ile bu özellik iptal edilmiþtir)
+<form> Bilgi yayýt formu
+<frame /> Sayfa içinde gömülü pencere açar
+<frameset> Sayfada bölme yapar
+<h1> ile <h6> arasý Baþlýk yazýsý belirler
+<head> Dökümanýn temel baþlýk elemanlarýný içerir
+<hr /> Yatay çizgi
+<html> sayfa türünü belirtir
+<i> Eðik yazý
+<iframe> Baþka bir sayfayý dökümanda gösterir
+<img /> Resim
+<input /> Form için bilgi alaný
+<ins> Eklenmiþ yazý
+<isindex> Dökümana ait arama kelimesi (html 4 ile bu özellik iptal edilmiþtir)
+<kbd> Klavye yazýsý
+<label> Form için metin etiketleri
+<legend> Form çerçevesi için açýklama
+<li> Liste elemaný
+<link /> Dökümana dýþardan bir kaynak baðlar
+<map> resim için parçalarý tanýmlar
+<menu> Menü listesi (html 4 ile bu özellik iptal edilmiþtir)
+<meta /> Dökümana ait önemli tanýmlamalarý içerir
+<noframes> Frame özelliði kapalý ise gösterilecek yazý
+<noscript> Javascript kapalý isse gösterilecek yazý
+<object> Gömülü uygulamalar
+<ol> Düzenli Liste
+<optgroup> Seçim listesindeki alkalý bileþenler
+<option> Seçim listesindeki elemanlar
+<p> Paragraf baþý
+<param /> Gömülü uygulamalar için ayar kýsmý
+<pre> Düz yazý biçimi
+<q> Kýsa alýntý
+<s> Üseri çizili yazý (html 4 ile bu özellik iptal edilmiþtir)
+<samp> Örnek bilgisayar kodu gösterir
+<script> Kullanýcý taraflý uygulama
+<select> Seçim listesi
+<small> Küçük yazý
+<span> Dökümanda bir bölümü gösterir
+<strike> Üzeri çizili ayzý (html 4 ile bu özellik iptal edilmiþtir)
+<strong> Kalýn yazý
+<style> Elemanlarýn görünümünü belirten þekiller
+<sub> Alt yazý
+<sup> Üst yazý
+<table> Tablo
+<tbody> Tablo grubu
+<td> Tablonun bir gözü
+<textarea> Form için uzun yazý alaný
+<tfoot> Tablonun dip kýsmý
+<th> Tablodaki baþlýk alaný
+<thead> Tablo baþlýk grubu
+<title> Dökümanýn ana baþlýðý
+<tr> Tablonun bir satýrý
+<tt> özel metin
+<u> Altý çizili yazý (html 4 ile bu özellik iptal edilmiþtir)
+<ul> Düzensiz liste
+<var> Yazý içinde deðiþken tanýmý
+<xmp> Ön tanýmlý yazý (html 4 ile bu özellik iptal edilmiþtir)
